@@ -1,2 +1,2 @@
 # greatbot
-Discord bot written in python
+Discord bot written in python.
