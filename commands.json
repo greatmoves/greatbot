@@ -1,0 +1,29 @@
+{
+  "description": "Thanks for using greatbot, for each command please use the prefix '!'.",
+  "commands": [
+    {
+      "title": "reddit",
+      "description": "Grabs a hot post from the given subreddit."
+    },
+    {
+      "title": "vc/dc",
+      "description": "Encrypt/decrypt plaintext/ciphertext using a Vigenere cipher with a given key."
+    },
+    {
+      "title" : "rps",
+      "description": "Play rock paper scissors with the bot."
+    },
+    {
+      "title": "ht",
+      "description" : "Randomly generated heads or tails."
+    },
+    {
+      "title": "uwu",
+      "description" : "uwu-ifies your message."
+    },
+    {
+      "title": "prnt",
+      "description": "Grabs a screenshot from a random prnt.sc url."
+    }
+  ]
+}
